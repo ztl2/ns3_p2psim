@@ -6,9 +6,6 @@
 
 [![Latest Release](https://gitlab.com/nsnam/ns-3-dev/-/badges/release.svg)](https://gitlab.com/nsnam/ns-3-dev/-/releases)
 
-## License
-
-MIT License
 
 ## Implementation
 Evaluating different DHT protocols under high churn, first implement Chord protocol.
